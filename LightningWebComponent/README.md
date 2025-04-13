@@ -48,3 +48,7 @@ export default class CustomSearchInLWC extends LightningElement {
             .catch(error => {
                 console.error("Error fetching products", error);
             });
+
+https://github.com/user-attachments/assets/c9a3be05-0c5d-4ece-9f53-bfac2fb80cf4
+
+
