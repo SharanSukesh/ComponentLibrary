@@ -51,7 +51,4 @@ export default class CustomSearchInLWC extends LightningElement {
 
 https://github.com/user-attachments/assets/c9a3be05-0c5d-4ece-9f53-bfac2fb80cf4
 
-
-https://www.youtube.com/watch?v=FvZ8pe4zelI
-
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+The video above shows an embedded iframe that allows for video playback within the documentation section.
