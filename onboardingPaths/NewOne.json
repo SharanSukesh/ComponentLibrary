@@ -1,0 +1,16 @@
+{
+  "title": "new one",
+  "description": "sdfsfsf",
+  "steps": [
+    {
+      "file": "CustomSearchInLWC.js",
+      "label": "test",
+      "description": "test"
+    },
+    {
+      "file": "index.html",
+      "label": "testtttt",
+      "description": "efsdfsdf"
+    }
+  ]
+}
