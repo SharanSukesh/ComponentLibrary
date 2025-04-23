@@ -1,11 +1,16 @@
 {
-  "title": "test",
-  "description": "test",
+  "title": "",
+  "description": "",
   "steps": [
     {
       "file": "CustomSearchInLWC.js",
-      "label": "test",
-      "description": "tset"
+      "label": "fdsfdf",
+      "description": "fdsfsdf"
+    },
+    {
+      "file": "LightningWebComponent/MyTestComponent.js",
+      "label": "tesdfsdf",
+      "description": "sdfsdf"
     }
   ]
 }
