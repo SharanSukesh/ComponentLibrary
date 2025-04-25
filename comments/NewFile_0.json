@@ -2,5 +2,11 @@
   {
     "text": "test comment",
     "timestamp": 1745554970653
+  },
+  {
+    "text": "test",
+    "timestamp": 1745555757440,
+    "user": "Sharan Sukesh",
+    "avatar": "https://avatars.githubusercontent.com/u/13811644?v=4"
   }
 ]
