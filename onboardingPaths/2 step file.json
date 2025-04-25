@@ -1,0 +1,16 @@
+{
+  "title": "Full Test",
+  "description": "Full Test",
+  "steps": [
+    {
+      "file": "CustomSearchInLWC.js",
+      "label": "LWC",
+      "description": "This is description"
+    },
+    {
+      "file": "LightningWebComponent/MyTestComponent.js",
+      "label": "LWC 2",
+      "description": "THis is also description"
+    }
+  ]
+}
