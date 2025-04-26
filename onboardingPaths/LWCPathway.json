@@ -1,0 +1,16 @@
+{
+  "title": "OnboardingPathLWC",
+  "description": "This is an onboarding path for an lwc",
+  "steps": [
+    {
+      "file": "CustomSearchInLWC.js",
+      "label": "First LWC",
+      "description": "This is the first LWC."
+    },
+    {
+      "file": "LightningWebComponent/README.md",
+      "label": "This is the second LWC readme",
+      "description": "Description for hte LWC readme"
+    }
+  ]
+}
